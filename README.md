@@ -80,5 +80,5 @@ The analysis focuses on understanding:
 - Some cities consistently underperform and may need targeted marketing.
 - Over-discounting erodes revenue without improving quantity sold in some categories.
 
-
+Dashboard Link: https://public.tableau.com/app/profile/shivam.pareek8344/viz/GradProject_17498035990050/SalesOverviewDashboard?publish=yes
 
