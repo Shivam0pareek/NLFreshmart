@@ -80,7 +80,5 @@ The analysis focuses on understanding:
 - Some cities consistently underperform and may need targeted marketing.
 - Over-discounting erodes revenue without improving quantity sold in some categories.
 
----
 
-## 📂 Project Structure
 
