@@ -81,5 +81,6 @@ The analysis focuses on understanding:
 - Over-discounting erodes revenue without improving quantity sold in some categories.
 
 Dataset Link: https://drive.google.com/drive/folders/1FcrdY8uZLE04-U5K2dqnjhDJVenFwGlk?usp=sharing
+
 Dashboard Link: https://public.tableau.com/app/profile/shivam.pareek8344/viz/GradProject_17498035990050/SalesOverviewDashboard?publish=yes
 
